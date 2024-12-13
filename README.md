@@ -13,7 +13,7 @@ Using tools like Excel to match orders with corresponding tracking numbers throu
 While manageable for those proficient in Excel, this task can be error-prone, time-intensive, and an inefficient use of skilled team members who are better suited to directly supporting customers.
 
 <img src=“https://github.com/nick-rivera-ru/Process-Automation/blob/main/CSA%20test%201%20-%20Edited.jpg” width=“450” height=“450”>
-![alt text](https://github.com/nick-rivera-ru/Process-Automation/blob/main/CSA%20test%201%20-%20Edited.jpgzzz)
+![alt text](https://github.com/nick-rivera-ru/Process-Automation/blob/main/CSA%20test%201%20-%20Edited.jpg)
 
 **My Approach:**
 To address these inefficiencies, I developed a comprehensive automation solution:
