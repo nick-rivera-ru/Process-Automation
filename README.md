@@ -33,3 +33,5 @@ This project demonstrates the power of automation to elevate operational efficie
 
 **Key Takeaway:**
 With targeted automation solutions, businesses can optimize their processes, reduce operational strain, and enable employees to shine where their skills and expertise create the most value. This project exemplifies how I help clients achieve these outcomes, positioning their teams for success and their businesses for growth.
+
+<img src="https://github.com/nick-rivera-ru/Process-Automation/blob/main/CSA%20test%201%20-%20Edited.jpg" alt="Alt text" width="300">
