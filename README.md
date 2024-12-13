@@ -12,8 +12,7 @@ Cleaning and formatting the data to ensure compatibility.
 Using tools like Excel to match orders with corresponding tracking numbers through functions such as VLOOKUP.
 While manageable for those proficient in Excel, this task can be error-prone, time-intensive, and an inefficient use of skilled team members who are better suited to directly supporting customers.
 
-
-![alt text](https://github.com/nick-rivera-ru/Process-Automation/blob/main/CSA%20test%201%20-%20Edited.jpg)
+<img src="https://github.com/nick-rivera-ru/Process-Automation/blob/main/CSA%20test%201%20-%20Edited.jpg" alt="Alt text" width="450">
 
 **My Approach:**
 To address these inefficiencies, I developed a comprehensive automation solution:
@@ -34,4 +33,3 @@ This project demonstrates the power of automation to elevate operational efficie
 **Key Takeaway:**
 With targeted automation solutions, businesses can optimize their processes, reduce operational strain, and enable employees to shine where their skills and expertise create the most value. This project exemplifies how I help clients achieve these outcomes, positioning their teams for success and their businesses for growth.
 
-<img src="https://github.com/nick-rivera-ru/Process-Automation/blob/main/CSA%20test%201%20-%20Edited.jpg" alt="Alt text" width="300">
